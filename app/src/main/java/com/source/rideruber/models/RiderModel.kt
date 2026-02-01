@@ -13,5 +13,9 @@ class RiderModel(
     var email: String = ""
     var password: String = ""
     var avatar: String = ""
+    var rating: Double = 0.0
+    var token: String = ""
+
+
 
 }

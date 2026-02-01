@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "157127437011-162etumcpl49ea2vtedo9ehnrhujk4lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.source.rideruber",
+            "certificate_hash": "79bfffe06b883d6c362e6496ef41f02808323d8d"
+          }
+        },
+        {
           "client_id": "157127437011-ls8mhrtimkkkf20n8nc161hqbogb1q89.apps.googleusercontent.com",
           "client_type": 3
         }
